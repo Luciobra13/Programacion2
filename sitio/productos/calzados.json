@@ -1,0 +1,67 @@
+[
+	{
+		"producto_id": 1,
+		"nombre": "Zapatillas",
+		"descripcion": "Urbanas.  Variedad de materiales en tela y cuero. Diferentes colores. Diseño para todos los momentos del día",
+		"texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+		"imagen": "Zapatillas.gif",
+		"imagen_descripcion": "zapatillas de hombre color rojo"
+	},
+	{
+		"producto_id": 2,
+		"nombre": "Náuticos",
+		"descripcion": "Cómodos. Diferentes modelos de tela y cuero, distintas variedades de suelas y colores",
+		"texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+		"imagen": "Nauticos.gif",
+		"imagen_descripcion": "náuticos de cuero marrón"
+	},
+	{
+		"producto_id": 3,
+		"nombre": "Zapatos",
+		"descripcion": "Formales. Hechos a mano con detalles de terminación y materiales de excelente calidad",
+		"texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+		"imagen": "Zapatos2.gif",
+		"imagen_descripcion": "zapatos de hombre cuero marrón"
+	},
+	{
+		"producto_id": 4,
+		"nombre": "Botas",
+		"descripcion": "Resistentes. Para usar encualquier terreno, abrigadas, impermeables y con mucho estilo",
+		"texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+		"imagen": "Botas2.gif",
+		"imagen_descripcion": "botas de cuero color marrón"
+	},
+	{
+		"producto_id": 5,
+		"nombre": "Sandalias",
+		"descripcion": "Frescas. Ideales para el verano, cómodas y frescas para usar durante todo el día",
+		"texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+		"imagen": "Sandalias.gif",
+		"imagen_descripcion": "sandalias de mujer colr marrón con detalles"
+	},
+	{
+		"producto_id": 6,
+		"nombre": "Botas",
+		"descripcion": "Variedad. Las mejores botas para la oficina y el after office, confeccionadas en varios colores",
+		"texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+		"imagen": "Botasmujer2.gif",
+		"imagen_descripcion": "botas de mujer color rojo"
+	},
+	{
+		"producto_id": 7,
+		"nombre": "Zuecos",
+		"descripcion": "Elegantes. Confortables y cómodos a la vez, los elegidos a la hora de caminar por la ciudad",
+		"texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+		"imagen": "Zuecos.gif",
+		"imagen_descripcion": "zuecos de color natural"
+	},
+	{
+		"producto_id": 8,
+		"nombre": "Mocasines",
+		"descripcion": "Distintos. Mocasines para destacarse con elegancia y originalidad",
+		"texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+		"imagen": "Mocasines.png",
+		"imagen_descripcion": "mocasines de mujer bicolor"
+	}
+]
+	
